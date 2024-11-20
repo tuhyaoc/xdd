@@ -1,9 +1,9 @@
 {
 "companyName": "corpsepile",
 "productName": "Make Sure It's Closed",
-"dataUrl": "https://cdn.jsdelivr.net/gh/scvholar-classroom/sonra@main/Build/MSIC-WEBGL.data.unityweb",
-"wasmCodeUrl": "https://cdn.jsdelivr.net/gh/scvholar-classroom/sonra@main/Build/MSIC-WEBGL.wasm.code.unityweb",
-"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/scvholar-classroom/sonra@main/Build/MSIC-WEBGL.wasm.framework.unityweb",
+"dataUrl": "https://cdn.jsdelivr.net/gh/tuhyaoc/xdd@main/Build/MSIC-WEBGL.data.unityweb",
+"wasmCodeUrl": "https://cdn.jsdelivr.net/gh/tuhyaoc/xdd@main/Build/MSIC-WEBGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/tuhyaoc/xdd@main/Build/MSIC-WEBGL.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
